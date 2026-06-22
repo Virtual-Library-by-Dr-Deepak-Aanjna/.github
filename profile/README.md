@@ -24,3 +24,4 @@ Browse our repositories to see the apps, services, and tools behind Virtual Libr
 
 Website: [virtuallibrary.in](https://virtuallibrary.in)  
 Support: [admin@virtuallibrary.in](mailto:admin@virtuallibrary.in)
+Development Support: [contact@devpushkar.com](mailto:contact@devpushkar.com)
