@@ -1,47 +1,26 @@
-# Welcome to Virtual Library by Dr. Deepak Aanjna 📚
+# Virtual Library
 
-Welcome to the official GitHub organization profile for **Virtual Library by Dr. Deepak Aanjna**.
+Virtual Library builds focused, student-first learning tools for better study habits, accountability, and progress tracking.
 
-## 🌟 About Us
+We are creating a mobile-first platform for students to join study rooms, run focus sessions, manage revision, practice consistently, and stay connected with a learning community.
 
-We are building a digital-first knowledge ecosystem to make educational and research resources more accessible, structured, and impactful for learners, educators, and researchers.
+## What We Build
 
-## 🎯 Mission
+- Study rooms and focus sessions
+- Revision and practice workflows
+- Progress tracking and rankings
+- Membership and student support features
+- Tools that reduce distractions and encourage consistency
 
-Our mission is to:
+## Our Approach
 
-- Promote open and inclusive learning
-- Build useful tools for digital education
-- Curate and organize high-value knowledge resources
-- Encourage collaboration across academic and technical communities
+We focus on simple, reliable, and useful products that help students spend more time learning and less time managing tools.
 
-## 🛠️ What You’ll Find Here
+## Explore Our Work
 
-This organization hosts repositories related to:
+Browse our repositories to see the apps, services, and tools behind Virtual Library. Contributions, feedback, and thoughtful ideas are welcome.
 
-- Virtual library platforms and tools
-- Educational content and reference resources
-- Research-oriented utilities
-- Community and collaboration projects
+## Connect
 
-## 🤝 Contributing
-
-We welcome contributors, collaborators, and educators.
-
-If you’d like to contribute:
-
-1. Explore our repositories
-2. Open an issue for suggestions or improvements
-3. Submit a pull request with your proposed changes
-
-## 📬 Contact
-
-For collaboration, feedback, or partnership opportunities, please connect through the organization profile or repository discussions.
-
-## 📌 Stay Connected
-
-Follow this organization to stay updated on new projects, resources, and community initiatives.
-
----
-
-_"ज्ञान बांटने से बढ़ता है" — Knowledge grows when shared._
+Website: [virtuallibrary.in](https://virtuallibrary.in)  
+Support: [admin@virtuallibrary.in](mailto:admin@virtuallibrary.in)
